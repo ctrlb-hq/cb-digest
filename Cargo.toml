@@ -1,6 +1,6 @@
 [package]
 name = "cb-digest"
-version = "0.2.0"
+version = "0.3.0"
 authors = ["Adarsh Srivastava <adarsh@ctrlb.ai>"]
 edition = "2024"
 license = "MIT"
