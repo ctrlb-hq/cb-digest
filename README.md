@@ -5,7 +5,7 @@ This is a direct port of the [Golang](https://github.com/DataDog/sketches-go)
 to Rust. DDSketch is a fully-mergeable quantile sketch with relative-error 
 guarantees and is extremely fast.
 
-Based on [Inspuration] (https://github.com/mheffner/rust-sketches-ddsketch)
+Based on [mheffner] (https://github.com/mheffner/rust-sketches-ddsketch)
 
 # DDSketch
 
