@@ -1,4 +1,4 @@
-# sketches-ddsketch
+# cb-digest
 
 This is a direct port of the [Golang](https://github.com/DataDog/sketches-go) 
 [DDSketch](https://arxiv.org/pdf/1908.10693.pdf) quantile sketch implementation 
