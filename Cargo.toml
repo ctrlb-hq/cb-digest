@@ -3,10 +3,10 @@ name = "sketches-ddsketch"
 version = "0.2.0"
 authors = ["Adarsh Srivastava <adarsh@ctrlb.ai>"]
 edition = "2024"
-license = "Apache-2.0"
+license = "MIT"
 readme = "README.md"
-repository = "https://github.com/ctrlb-hq/rust-sketches-ddsketch"
-homepage = "https://github.com/ctrlb-hq/rust-sketches-ddsketch"
+repository = "https://github.com/ctrlb-hq/cb-digest"
+homepage = "https://github.com/ctrlb-hq/cb-digest"
 description = """
 A direct port of the Golang DDSketch implementation.
 """
