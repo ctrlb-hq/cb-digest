@@ -1,5 +1,5 @@
 [package]
-name = "sketches-ddsketch"
+name = "cb-digest"
 version = "0.2.0"
 authors = ["Adarsh Srivastava <adarsh@ctrlb.ai>"]
 edition = "2024"
