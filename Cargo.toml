@@ -1,6 +1,6 @@
 [package]
 name = "sketches-ddsketch"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Adarsh Srivastava <adarsh@ctrlb.ai>"]
 edition = "2024"
 license = "Apache-2.0"
